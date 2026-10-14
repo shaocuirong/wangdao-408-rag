@@ -1,0 +1,4197 @@
+{
+ "key": "计算机网络",
+ "source": "bookmarks",
+ "pages": 316,
+ "anchors": [
+  {
+   "level": 0,
+   "title": "前   言",
+   "page": 3,
+   "pos": [
+    3,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "致  读  者",
+   "page": 4,
+   "pos": [
+    4,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "王道训练营",
+   "page": 5,
+   "pos": [
+    5,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "王道训练营简介",
+   "page": 5,
+   "pos": [
+    5,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．面向就业",
+   "page": 5,
+   "pos": [
+    5,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．面向硕士",
+   "page": 5,
+   "pos": [
+    5,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3．报名要求",
+   "page": 5,
+   "pos": [
+    5,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4．学习成效",
+   "page": 6,
+   "pos": [
+    6,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "王道训练营优势",
+   "page": 6,
+   "pos": [
+    6,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "王道训练营课程",
+   "page": 6,
+   "pos": [
+    6,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "目   录",
+   "page": 7,
+   "pos": [
+    7,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第1章 计算机网络体系结构",
+   "page": 12,
+   "pos": [
+    12,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 12,
+   "pos": [
+    12,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 12,
+   "pos": [
+    12,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.1  计算机网络概述",
+   "page": 12,
+   "pos": [
+    12,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.1  计算机网络的概念",
+   "page": 12,
+   "pos": [
+    12,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.2  计算机网络的组成",
+   "page": 13,
+   "pos": [
+    13,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.3  计算机网络的功能",
+   "page": 13,
+   "pos": [
+    13,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．数据通信",
+   "page": 13,
+   "pos": [
+    13,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．资源共享",
+   "page": 13,
+   "pos": [
+    13,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．分布式处理",
+   "page": 13,
+   "pos": [
+    13,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．提高可靠性",
+   "page": 13,
+   "pos": [
+    13,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．负载均衡",
+   "page": 14,
+   "pos": [
+    14,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.4  电路交换、报文交换与分组交换",
+   "page": 14,
+   "pos": [
+    14,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．电路交换",
+   "page": 14,
+   "pos": [
+    14,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．报文交换",
+   "page": 14,
+   "pos": [
+    14,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．分组交换",
+   "page": 15,
+   "pos": [
+    15,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.5  计算机网络的分类",
+   "page": 16,
+   "pos": [
+    16,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．按分布范围分类",
+   "page": 16,
+   "pos": [
+    16,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．按传输技术分类",
+   "page": 17,
+   "pos": [
+    17,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．按拓扑结构分类",
+   "page": 17,
+   "pos": [
+    17,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．按使用者分类",
+   "page": 17,
+   "pos": [
+    17,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．按传输介质分类",
+   "page": 17,
+   "pos": [
+    17,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.6  计算机网络的性能指标",
+   "page": 18,
+   "pos": [
+    18,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.7  本节习题精选",
+   "page": 20,
+   "pos": [
+    20,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 20,
+   "pos": [
+    20,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 22,
+   "pos": [
+    22,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.8  答案与解析",
+   "page": 23,
+   "pos": [
+    23,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 23,
+   "pos": [
+    23,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 25,
+   "pos": [
+    25,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.2  计算机网络体系结构与参考模型",
+   "page": 26,
+   "pos": [
+    26,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.1  计算机网络分层结构",
+   "page": 26,
+   "pos": [
+    26,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.2  计算机网络协议、服务、接口的概念",
+   "page": 27,
+   "pos": [
+    27,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．协议",
+   "page": 27,
+   "pos": [
+    27,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．接口",
+   "page": 27,
+   "pos": [
+    27,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．服务",
+   "page": 28,
+   "pos": [
+    28,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.3  OSI参考模型和TCP/IP模型",
+   "page": 28,
+   "pos": [
+    28,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．OSI参考模型",
+   "page": 28,
+   "pos": [
+    28,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．TCP/IP模型",
+   "page": 31,
+   "pos": [
+    31,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．TCP/IP模型与OSI参考模型的比较",
+   "page": 32,
+   "pos": [
+    32,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.4  本节习题精选",
+   "page": 33,
+   "pos": [
+    33,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 33,
+   "pos": [
+    33,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.5  答案与解析",
+   "page": 36,
+   "pos": [
+    36,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 36,
+   "pos": [
+    36,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.3  本章小结及疑难点",
+   "page": 39,
+   "pos": [
+    39,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 0,
+   "title": "第2章 物理层",
+   "page": 41,
+   "pos": [
+    41,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 41,
+   "pos": [
+    41,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 41,
+   "pos": [
+    41,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.1  通信基础",
+   "page": 41,
+   "pos": [
+    41,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.1  基本概念",
+   "page": 41,
+   "pos": [
+    41,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．数据、信号与码元",
+   "page": 41,
+   "pos": [
+    41,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．信源、信道与信宿",
+   "page": 41,
+   "pos": [
+    41,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．速率、波特与带宽",
+   "page": 42,
+   "pos": [
+    42,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.2  信道的极限容量",
+   "page": 42,
+   "pos": [
+    42,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．奈奎斯特定理（奈氏准则）",
+   "page": 43,
+   "pos": [
+    43,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．香农定理",
+   "page": 43,
+   "pos": [
+    43,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.3  编码与调制",
+   "page": 44,
+   "pos": [
+    44,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．数字数据编码为数字信号",
+   "page": 44,
+   "pos": [
+    44,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．模拟数据编码为数字信号",
+   "page": 45,
+   "pos": [
+    45,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．数字数据调制为模拟信号",
+   "page": 45,
+   "pos": [
+    45,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．模拟数据直接传输为模拟信号",
+   "page": 46,
+   "pos": [
+    46,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.4  本节习题精选",
+   "page": 46,
+   "pos": [
+    46,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 46,
+   "pos": [
+    46,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 49,
+   "pos": [
+    49,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.5  答案与解析",
+   "page": 49,
+   "pos": [
+    49,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 49,
+   "pos": [
+    49,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 52,
+   "pos": [
+    52,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.2  传输介质",
+   "page": 53,
+   "pos": [
+    53,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.1  双绞线、同轴电缆、光纤与无线传输介质",
+   "page": 53,
+   "pos": [
+    53,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．双绞线",
+   "page": 53,
+   "pos": [
+    53,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．同轴电缆",
+   "page": 53,
+   "pos": [
+    53,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．光纤",
+   "page": 53,
+   "pos": [
+    53,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．无线传输介质",
+   "page": 54,
+   "pos": [
+    54,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.2  物理层接口的特性",
+   "page": 55,
+   "pos": [
+    55,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.3  本节习题精选",
+   "page": 55,
+   "pos": [
+    55,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 55,
+   "pos": [
+    55,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.4  答案与解析",
+   "page": 56,
+   "pos": [
+    56,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 56,
+   "pos": [
+    56,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.3  物理层设备",
+   "page": 57,
+   "pos": [
+    57,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.1  中继器",
+   "page": 57,
+   "pos": [
+    57,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.2  集线器",
+   "page": 57,
+   "pos": [
+    57,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.3  本节习题精选",
+   "page": 58,
+   "pos": [
+    58,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 58,
+   "pos": [
+    58,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.4  答案与解析",
+   "page": 59,
+   "pos": [
+    59,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 59,
+   "pos": [
+    59,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.4  本章小结及疑难点",
+   "page": 59,
+   "pos": [
+    59,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 0,
+   "title": "第3章 数据链路层",
+   "page": 61,
+   "pos": [
+    61,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 61,
+   "pos": [
+    61,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 61,
+   "pos": [
+    61,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.1  数据链路层的功能",
+   "page": 61,
+   "pos": [
+    61,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.1  数据链路层所处的地位",
+   "page": 62,
+   "pos": [
+    62,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.2  链路管理",
+   "page": 62,
+   "pos": [
+    62,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.3  封装成帧与透明传输",
+   "page": 63,
+   "pos": [
+    63,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.4  流量控制",
+   "page": 63,
+   "pos": [
+    63,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.5  差错检测与可靠传输",
+   "page": 63,
+   "pos": [
+    63,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.6  本节习题精选",
+   "page": 63,
+   "pos": [
+    63,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 63,
+   "pos": [
+    63,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.7  答案与解析",
+   "page": 64,
+   "pos": [
+    64,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 64,
+   "pos": [
+    64,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.2  组帧",
+   "page": 65,
+   "pos": [
+    65,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.1  字符计数法",
+   "page": 65,
+   "pos": [
+    65,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.2  字节填充法",
+   "page": 65,
+   "pos": [
+    65,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.3  零比特填充法",
+   "page": 66,
+   "pos": [
+    66,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.4  违规编码法",
+   "page": 66,
+   "pos": [
+    66,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.5  本节习题精选",
+   "page": 66,
+   "pos": [
+    66,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 66,
+   "pos": [
+    66,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 66,
+   "pos": [
+    66,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.6  答案与解析",
+   "page": 66,
+   "pos": [
+    66,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 66,
+   "pos": [
+    66,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 67,
+   "pos": [
+    67,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.3  差错控制",
+   "page": 67,
+   "pos": [
+    67,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.1  检错编码",
+   "page": 68,
+   "pos": [
+    68,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．奇偶检验码",
+   "page": 68,
+   "pos": [
+    68,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．循环冗余码",
+   "page": 68,
+   "pos": [
+    68,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.2  纠错编码",
+   "page": 69,
+   "pos": [
+    69,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.3  本节习题精选",
+   "page": 70,
+   "pos": [
+    70,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 70,
+   "pos": [
+    70,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 71,
+   "pos": [
+    71,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.4  答案与解析",
+   "page": 71,
+   "pos": [
+    71,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 71,
+   "pos": [
+    71,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 72,
+   "pos": [
+    72,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.4  流量控制与可靠传输机制",
+   "page": 72,
+   "pos": [
+    72,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.1  流量控制与滑动窗口机制",
+   "page": 72,
+   "pos": [
+    72,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．停止-等待流量控制基本原理",
+   "page": 73,
+   "pos": [
+    73,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．滑动窗口流量控制基本原理",
+   "page": 73,
+   "pos": [
+    73,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.2  可靠传输机制",
+   "page": 74,
+   "pos": [
+    74,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．单帧滑动窗口与停止-等待协议（S-W）",
+   "page": 75,
+   "pos": [
+    75,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．多帧滑动窗口与后退N帧协议（GBN）",
+   "page": 75,
+   "pos": [
+    75,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．多帧滑动窗口与选择重传协议（SR）",
+   "page": 76,
+   "pos": [
+    76,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．信道利用率的分析",
+   "page": 77,
+   "pos": [
+    77,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.3  本节习题精选",
+   "page": 78,
+   "pos": [
+    78,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 78,
+   "pos": [
+    78,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 81,
+   "pos": [
+    81,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.4  答案与解析",
+   "page": 83,
+   "pos": [
+    83,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 83,
+   "pos": [
+    83,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 86,
+   "pos": [
+    86,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.5  介质访问控制",
+   "page": 88,
+   "pos": [
+    88,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.5.1  信道划分介质访问控制",
+   "page": 89,
+   "pos": [
+    89,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．时分复用（TDM）",
+   "page": 89,
+   "pos": [
+    89,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．频分复用（FDM）",
+   "page": 90,
+   "pos": [
+    90,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．波分复用（WDM）",
+   "page": 90,
+   "pos": [
+    90,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．码分复用（CDM）",
+   "page": 90,
+   "pos": [
+    90,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.5.2  随机访问介质访问控制",
+   "page": 91,
+   "pos": [
+    91,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．ALOHA协议",
+   "page": 92,
+   "pos": [
+    92,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．CSMA协议",
+   "page": 93,
+   "pos": [
+    93,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.5.3  轮询访问：令牌传递协议",
+   "page": 93,
+   "pos": [
+    93,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.5.4  本节习题精选",
+   "page": 94,
+   "pos": [
+    94,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 94,
+   "pos": [
+    94,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.5.5  答案与解析",
+   "page": 96,
+   "pos": [
+    96,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 96,
+   "pos": [
+    96,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.6  局域网",
+   "page": 98,
+   "pos": [
+    98,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.6.1  局域网的基本概念和体系结构",
+   "page": 98,
+   "pos": [
+    98,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.6.2  以太网与IEEE 802.3",
+   "page": 99,
+   "pos": [
+    99,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．以太网的传输介质与网卡",
+   "page": 99,
+   "pos": [
+    99,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．以太网MAC地址",
+   "page": 100,
+   "pos": [
+    100,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．CSMA/CD协议",
+   "page": 100,
+   "pos": [
+    100,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "4．以太网的MAC帧",
+   "page": 102,
+   "pos": [
+    102,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．高速以太网",
+   "page": 103,
+   "pos": [
+    103,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.6.3  IEEE 802.11无线局域网",
+   "page": 104,
+   "pos": [
+    104,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．无线局域网的组成",
+   "page": 104,
+   "pos": [
+    104,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．CSMA/CA协议",
+   "page": 105,
+   "pos": [
+    105,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．802.11局域网的MAC帧",
+   "page": 108,
+   "pos": [
+    108,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.6.4  VLAN基本概念与基本原理",
+   "page": 110,
+   "pos": [
+    110,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.6.5  本节习题精选",
+   "page": 111,
+   "pos": [
+    111,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 111,
+   "pos": [
+    111,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 116,
+   "pos": [
+    116,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.6.6  答案与解析",
+   "page": 117,
+   "pos": [
+    117,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 117,
+   "pos": [
+    117,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 122,
+   "pos": [
+    122,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.7  广域网",
+   "page": 124,
+   "pos": [
+    124,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.7.1  广域网的基本概念",
+   "page": 124,
+   "pos": [
+    124,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.7.2  点对点协议",
+   "page": 125,
+   "pos": [
+    125,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.7.3  本节习题精选",
+   "page": 126,
+   "pos": [
+    126,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 126,
+   "pos": [
+    126,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.7.4  答案与解析",
+   "page": 127,
+   "pos": [
+    127,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 127,
+   "pos": [
+    127,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.8  数据链路层设备",
+   "page": 128,
+   "pos": [
+    128,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "*3.8.1  网桥的基本概念",
+   "page": 128,
+   "pos": [
+    128,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.8.2  以太网交换机",
+   "page": 129,
+   "pos": [
+    129,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．交换机的原理和特点",
+   "page": 129,
+   "pos": [
+    129,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．交换机的自学习功能",
+   "page": 129,
+   "pos": [
+    129,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.8.3  共享式以太网",
+   "page": 131,
+   "pos": [
+    131,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．共享式以太网的基本特点",
+   "page": 131,
+   "pos": [
+    131,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.8.4  本节习题精选",
+   "page": 131,
+   "pos": [
+    131,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 131,
+   "pos": [
+    131,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.8.5  答案与解析",
+   "page": 134,
+   "pos": [
+    134,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 134,
+   "pos": [
+    134,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.9  本章小结及疑难点",
+   "page": 137,
+   "pos": [
+    137,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第4章 网络层",
+   "page": 138,
+   "pos": [
+    138,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 138,
+   "pos": [
+    138,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 138,
+   "pos": [
+    138,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.1  网络层的功能",
+   "page": 138,
+   "pos": [
+    138,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.1  异构网络互连",
+   "page": 139,
+   "pos": [
+    139,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.2  路由与转发",
+   "page": 139,
+   "pos": [
+    139,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.3  网络层提供的两种服务",
+   "page": 140,
+   "pos": [
+    140,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．虚电路",
+   "page": 140,
+   "pos": [
+    140,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．数据报",
+   "page": 141,
+   "pos": [
+    141,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.4  SDN的基本概念",
+   "page": 142,
+   "pos": [
+    142,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.5  拥塞控制",
+   "page": 143,
+   "pos": [
+    143,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.6  本节习题精选",
+   "page": 143,
+   "pos": [
+    143,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 143,
+   "pos": [
+    143,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.7  答案与解析",
+   "page": 146,
+   "pos": [
+    146,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 146,
+   "pos": [
+    146,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.2  IPv4",
+   "page": 148,
+   "pos": [
+    148,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.1  IPv4分组",
+   "page": 148,
+   "pos": [
+    148,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．IPv4分组的格式",
+   "page": 148,
+   "pos": [
+    148,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．IP数据报分片",
+   "page": 149,
+   "pos": [
+    149,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.2  IPv4地址",
+   "page": 150,
+   "pos": [
+    150,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．IPv4地址",
+   "page": 150,
+   "pos": [
+    150,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．分类的IP地址",
+   "page": 150,
+   "pos": [
+    150,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．划分子网",
+   "page": 152,
+   "pos": [
+    152,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．无分类编址CIDR",
+   "page": 153,
+   "pos": [
+    153,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．路由聚合",
+   "page": 154,
+   "pos": [
+    154,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．子网划分的应用举例",
+   "page": 154,
+   "pos": [
+    154,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.3  网络地址转换NAT",
+   "page": 155,
+   "pos": [
+    155,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.4  网络层转发分组的过程",
+   "page": 157,
+   "pos": [
+    157,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.5  地址解析协议（ARP）",
+   "page": 158,
+   "pos": [
+    158,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．IP地址与硬件地址",
+   "page": 158,
+   "pos": [
+    158,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．地址解析协议",
+   "page": 158,
+   "pos": [
+    158,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.6  动态主机配置协议DHCP",
+   "page": 160,
+   "pos": [
+    160,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.7  网际控制报文协议ICMP",
+   "page": 161,
+   "pos": [
+    161,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.8  本节习题精选",
+   "page": 162,
+   "pos": [
+    162,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 162,
+   "pos": [
+    162,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 170,
+   "pos": [
+    170,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.9  答案与解析",
+   "page": 176,
+   "pos": [
+    176,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 176,
+   "pos": [
+    176,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 185,
+   "pos": [
+    185,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.3  IPv6",
+   "page": 192,
+   "pos": [
+    192,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.1  IPv6的特点",
+   "page": 192,
+   "pos": [
+    192,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.2  IPv6数据报的基本首部",
+   "page": 193,
+   "pos": [
+    193,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.3  IPv6地址",
+   "page": 194,
+   "pos": [
+    194,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.4  从IPv4向IPv6过渡",
+   "page": 195,
+   "pos": [
+    195,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.5  本节习题精选",
+   "page": 195,
+   "pos": [
+    195,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 195,
+   "pos": [
+    195,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.6  答案与解析",
+   "page": 196,
+   "pos": [
+    196,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 196,
+   "pos": [
+    196,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.4  路由算法与路由协议",
+   "page": 197,
+   "pos": [
+    197,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.1  路由算法",
+   "page": 197,
+   "pos": [
+    197,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．静态路由与动态路由",
+   "page": 197,
+   "pos": [
+    197,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．距离-向量算法",
+   "page": 197,
+   "pos": [
+    197,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．链路状态算法",
+   "page": 198,
+   "pos": [
+    198,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.2  分层次的路由选择协议",
+   "page": 199,
+   "pos": [
+    199,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．内部网关协议（Interior Gateway Protocol，IGP）",
+   "page": 199,
+   "pos": [
+    199,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．外部网关协议（External Gateway Protocol，EGP）",
+   "page": 199,
+   "pos": [
+    199,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.3  路由信息协议",
+   "page": 199,
+   "pos": [
+    199,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．RIP的规定",
+   "page": 199,
+   "pos": [
+    199,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．RIP的特点",
+   "page": 200,
+   "pos": [
+    200,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．RIP的基本工作原理",
+   "page": 200,
+   "pos": [
+    200,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．RIP的优缺点",
+   "page": 201,
+   "pos": [
+    201,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.4  开放最短路径优先协议",
+   "page": 202,
+   "pos": [
+    202,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．开放最短路径优先（OSPF）的基本特点",
+   "page": 202,
+   "pos": [
+    202,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．OSPF的五种分组类型",
+   "page": 203,
+   "pos": [
+    203,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．OSPF的基本工作原理",
+   "page": 203,
+   "pos": [
+    203,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.5  边界网关协议",
+   "page": 204,
+   "pos": [
+    204,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．BGP的基本特点",
+   "page": 204,
+   "pos": [
+    204,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．BGP路由",
+   "page": 204,
+   "pos": [
+    204,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．BGP路由选择",
+   "page": 205,
+   "pos": [
+    205,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．BGP的四种报文",
+   "page": 207,
+   "pos": [
+    207,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.6  本节习题精选",
+   "page": 207,
+   "pos": [
+    207,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 207,
+   "pos": [
+    207,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 211,
+   "pos": [
+    211,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.4.7  答案与解析",
+   "page": 214,
+   "pos": [
+    214,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 214,
+   "pos": [
+    214,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 217,
+   "pos": [
+    217,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.5  IP多播",
+   "page": 219,
+   "pos": [
+    219,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.5.1  多播的概念",
+   "page": 219,
+   "pos": [
+    219,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.5.2  IP多播地址",
+   "page": 220,
+   "pos": [
+    220,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.5.3  在局域网上进行硬件多播",
+   "page": 220,
+   "pos": [
+    220,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.5.4  IGMP与多播路由协议",
+   "page": 221,
+   "pos": [
+    221,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.5.5  本节习题精选",
+   "page": 221,
+   "pos": [
+    221,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 221,
+   "pos": [
+    221,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 222,
+   "pos": [
+    222,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.5.6  答案与解析",
+   "page": 222,
+   "pos": [
+    222,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 222,
+   "pos": [
+    222,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 222,
+   "pos": [
+    222,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.6  移动IP",
+   "page": 223,
+   "pos": [
+    223,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.6.1  移动IP的概念",
+   "page": 223,
+   "pos": [
+    223,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.6.2  移动IP通信过程",
+   "page": 223,
+   "pos": [
+    223,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.6.3  本节习题精选",
+   "page": 224,
+   "pos": [
+    224,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 224,
+   "pos": [
+    224,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.6.4  答案与解析",
+   "page": 224,
+   "pos": [
+    224,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 224,
+   "pos": [
+    224,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.7  网络层设备",
+   "page": 225,
+   "pos": [
+    225,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.7.1  冲突域和广播域",
+   "page": 225,
+   "pos": [
+    225,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．冲突域",
+   "page": 225,
+   "pos": [
+    225,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．广播域",
+   "page": 225,
+   "pos": [
+    225,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.7.2  路由器的组成和功能",
+   "page": 225,
+   "pos": [
+    225,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.7.3  路由表与分组转发",
+   "page": 226,
+   "pos": [
+    226,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.7.4  本节习题精选",
+   "page": 227,
+   "pos": [
+    227,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 227,
+   "pos": [
+    227,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 229,
+   "pos": [
+    229,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.7.5  答案与解析",
+   "page": 230,
+   "pos": [
+    230,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 230,
+   "pos": [
+    230,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 232,
+   "pos": [
+    232,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.8  本章小结及疑难点",
+   "page": 234,
+   "pos": [
+    234,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第5章 传输层",
+   "page": 235,
+   "pos": [
+    235,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 235,
+   "pos": [
+    235,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 235,
+   "pos": [
+    235,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.1  传输层提供的服务",
+   "page": 235,
+   "pos": [
+    235,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.1  传输层的功能",
+   "page": 235,
+   "pos": [
+    235,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．应用进程之间的逻辑通信",
+   "page": 235,
+   "pos": [
+    235,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．复用和分用",
+   "page": 236,
+   "pos": [
+    236,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．差错检测",
+   "page": 236,
+   "pos": [
+    236,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．提供面向连接和无连接的传输服务",
+   "page": 236,
+   "pos": [
+    236,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.2  传输层的寻址与端口",
+   "page": 236,
+   "pos": [
+    236,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．端口的作用",
+   "page": 236,
+   "pos": [
+    236,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．端口号",
+   "page": 237,
+   "pos": [
+    237,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．套接字",
+   "page": 237,
+   "pos": [
+    237,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.3  无连接服务与面向连接服务",
+   "page": 237,
+   "pos": [
+    237,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.4  本节习题精选",
+   "page": 238,
+   "pos": [
+    238,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 238,
+   "pos": [
+    238,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.5  答案与解析",
+   "page": 239,
+   "pos": [
+    239,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 239,
+   "pos": [
+    239,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.2  UDP",
+   "page": 240,
+   "pos": [
+    240,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.1  UDP数据报",
+   "page": 240,
+   "pos": [
+    240,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．UDP概述",
+   "page": 240,
+   "pos": [
+    240,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．UDP的首部格式",
+   "page": 240,
+   "pos": [
+    240,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.2  UDP检验",
+   "page": 241,
+   "pos": [
+    241,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.3  本节习题精选",
+   "page": 242,
+   "pos": [
+    242,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 242,
+   "pos": [
+    242,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 244,
+   "pos": [
+    244,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.4  答案与解析",
+   "page": 244,
+   "pos": [
+    244,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 244,
+   "pos": [
+    244,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 246,
+   "pos": [
+    246,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.3  TCP",
+   "page": 247,
+   "pos": [
+    247,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.1  TCP的特点",
+   "page": 247,
+   "pos": [
+    247,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.2  TCP报文段",
+   "page": 247,
+   "pos": [
+    247,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.3  TCP连接管理",
+   "page": 249,
+   "pos": [
+    249,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．TCP连接的建立",
+   "page": 249,
+   "pos": [
+    249,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．TCP连接的释放",
+   "page": 250,
+   "pos": [
+    250,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.4  TCP可靠传输",
+   "page": 251,
+   "pos": [
+    251,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．序号",
+   "page": 251,
+   "pos": [
+    251,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．确认",
+   "page": 252,
+   "pos": [
+    252,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．重传",
+   "page": 252,
+   "pos": [
+    252,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.5  TCP流量控制",
+   "page": 253,
+   "pos": [
+    253,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.6  TCP拥塞控制",
+   "page": 254,
+   "pos": [
+    254,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．慢开始和拥塞避免",
+   "page": 254,
+   "pos": [
+    254,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．快重传和快恢复",
+   "page": 256,
+   "pos": [
+    256,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.7  本节习题精选",
+   "page": 257,
+   "pos": [
+    257,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 257,
+   "pos": [
+    257,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 264,
+   "pos": [
+    264,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.8  答案与解析",
+   "page": 267,
+   "pos": [
+    267,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 267,
+   "pos": [
+    267,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 273,
+   "pos": [
+    273,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.4  本章小结及疑难点",
+   "page": 276,
+   "pos": [
+    276,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第6章 应用层",
+   "page": 278,
+   "pos": [
+    278,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 278,
+   "pos": [
+    278,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 278,
+   "pos": [
+    278,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.1  网络应用模型",
+   "page": 278,
+   "pos": [
+    278,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.1  客户/服务器模型",
+   "page": 278,
+   "pos": [
+    278,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.2  P2P模型",
+   "page": 279,
+   "pos": [
+    279,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.3  本节习题精选",
+   "page": 279,
+   "pos": [
+    279,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 279,
+   "pos": [
+    279,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.4  答案与解析",
+   "page": 280,
+   "pos": [
+    280,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 280,
+   "pos": [
+    280,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.2  域名系统",
+   "page": 281,
+   "pos": [
+    281,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.1  层次域名空间",
+   "page": 281,
+   "pos": [
+    281,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.2  域名服务器",
+   "page": 282,
+   "pos": [
+    282,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．根域名服务器",
+   "page": 282,
+   "pos": [
+    282,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．顶级域名服务器",
+   "page": 282,
+   "pos": [
+    282,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．权限域名服务器（授权域名服务器）",
+   "page": 283,
+   "pos": [
+    283,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．本地域名服务器",
+   "page": 283,
+   "pos": [
+    283,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.3  域名解析过程",
+   "page": 283,
+   "pos": [
+    283,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.4  本节习题精选",
+   "page": 284,
+   "pos": [
+    284,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 284,
+   "pos": [
+    284,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 286,
+   "pos": [
+    286,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.5  答案与解析",
+   "page": 286,
+   "pos": [
+    286,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 286,
+   "pos": [
+    286,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 288,
+   "pos": [
+    288,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.3  文件传输协议",
+   "page": 288,
+   "pos": [
+    288,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.1  FTP的工作原理",
+   "page": 288,
+   "pos": [
+    288,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.2  控制连接与数据连接",
+   "page": 288,
+   "pos": [
+    288,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．控制连接",
+   "page": 289,
+   "pos": [
+    289,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．数据连接",
+   "page": 289,
+   "pos": [
+    289,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.3  本节习题精选",
+   "page": 289,
+   "pos": [
+    289,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 289,
+   "pos": [
+    289,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 291,
+   "pos": [
+    291,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.4  答案与解析",
+   "page": 291,
+   "pos": [
+    291,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 291,
+   "pos": [
+    291,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 293,
+   "pos": [
+    293,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.4  电子邮件",
+   "page": 294,
+   "pos": [
+    294,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.1  电子邮件系统的组成结构",
+   "page": 294,
+   "pos": [
+    294,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.2  电子邮件格式与MIME",
+   "page": 295,
+   "pos": [
+    295,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．电子邮件格式",
+   "page": 295,
+   "pos": [
+    295,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．多用途互联网邮件扩展（MIME）",
+   "page": 296,
+   "pos": [
+    296,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.3  SMTP和POP3",
+   "page": 296,
+   "pos": [
+    296,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．SMTP",
+   "page": 296,
+   "pos": [
+    296,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．POP3和IMAP",
+   "page": 297,
+   "pos": [
+    297,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.4  本节习题精选",
+   "page": 297,
+   "pos": [
+    297,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 297,
+   "pos": [
+    297,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 298,
+   "pos": [
+    298,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.5  答案与解析",
+   "page": 299,
+   "pos": [
+    299,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 299,
+   "pos": [
+    299,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 300,
+   "pos": [
+    300,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.5  万维网",
+   "page": 300,
+   "pos": [
+    300,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.5.1  万维网的概念与组成结构",
+   "page": 300,
+   "pos": [
+    300,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.5.2  超文本传输协议",
+   "page": 301,
+   "pos": [
+    301,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．HTTP的操作过程",
+   "page": 301,
+   "pos": [
+    301,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．HTTP的特点",
+   "page": 302,
+   "pos": [
+    302,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．HTTP的报文结构",
+   "page": 303,
+   "pos": [
+    303,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．代理服务器",
+   "page": 304,
+   "pos": [
+    304,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．HTTP请求报文举例",
+   "page": 305,
+   "pos": [
+    305,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.5.3  本节习题精选",
+   "page": 306,
+   "pos": [
+    306,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 306,
+   "pos": [
+    306,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 308,
+   "pos": [
+    308,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.5.4  答案与解析",
+   "page": 309,
+   "pos": [
+    309,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 309,
+   "pos": [
+    309,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 312,
+   "pos": [
+    312,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.6  本章小结及疑难点",
+   "page": 314,
+   "pos": [
+    314,
+    0
+   ],
+   "matched": true
+  }
+ ]
+}

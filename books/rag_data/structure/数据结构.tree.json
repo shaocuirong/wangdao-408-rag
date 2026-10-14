@@ -1,0 +1,4767 @@
+{
+ "key": "数据结构",
+ "source": "bookmarks",
+ "pages": 404,
+ "anchors": [
+  {
+   "level": 0,
+   "title": "前   言",
+   "page": 3,
+   "pos": [
+    3,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "致  读  者",
+   "page": 4,
+   "pos": [
+    4,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "王道训练营",
+   "page": 5,
+   "pos": [
+    5,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "王道训练营简介",
+   "page": 5,
+   "pos": [
+    5,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．面向就业",
+   "page": 5,
+   "pos": [
+    5,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．面向硕士",
+   "page": 5,
+   "pos": [
+    5,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3．报名要求",
+   "page": 5,
+   "pos": [
+    5,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4．学习成效",
+   "page": 6,
+   "pos": [
+    6,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "王道训练营优势",
+   "page": 6,
+   "pos": [
+    6,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "王道训练营课程",
+   "page": 6,
+   "pos": [
+    6,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "目   录",
+   "page": 7,
+   "pos": [
+    7,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第1章 绪论",
+   "page": 7,
+   "pos": [
+    7,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.1  数据结构的基本概念",
+   "page": 12,
+   "pos": [
+    12,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.1  基本概念和术语",
+   "page": 12,
+   "pos": [
+    12,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．数据",
+   "page": 12,
+   "pos": [
+    12,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．数据元素",
+   "page": 12,
+   "pos": [
+    12,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．数据对象",
+   "page": 13,
+   "pos": [
+    13,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．数据类型",
+   "page": 13,
+   "pos": [
+    13,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．数据结构",
+   "page": 13,
+   "pos": [
+    13,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.2  数据结构三要素",
+   "page": 13,
+   "pos": [
+    13,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．数据的逻辑结构",
+   "page": 13,
+   "pos": [
+    13,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．数据的存储结构",
+   "page": 14,
+   "pos": [
+    14,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．数据的运算",
+   "page": 14,
+   "pos": [
+    14,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.3  本节试题精选",
+   "page": 14,
+   "pos": [
+    14,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 14,
+   "pos": [
+    14,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 15,
+   "pos": [
+    15,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.4  答案与解析",
+   "page": 15,
+   "pos": [
+    15,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 15,
+   "pos": [
+    15,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 15,
+   "pos": [
+    15,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.2  算法和算法评价",
+   "page": 15,
+   "pos": [
+    15,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.1  算法的基本概念",
+   "page": 15,
+   "pos": [
+    15,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.2  算法效率的度量",
+   "page": 16,
+   "pos": [
+    16,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．时间复杂度",
+   "page": 16,
+   "pos": [
+    16,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．空间复杂度",
+   "page": 17,
+   "pos": [
+    17,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.3  本节试题精选",
+   "page": 17,
+   "pos": [
+    17,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 17,
+   "pos": [
+    17,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 19,
+   "pos": [
+    19,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.4  答案与解析",
+   "page": 19,
+   "pos": [
+    19,
+    40
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 19,
+   "pos": [
+    19,
+    41
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 22,
+   "pos": [
+    22,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 22,
+   "pos": [
+    22,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．循环主体中的变量参与循环条件的判断",
+   "page": 22,
+   "pos": [
+    22,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．循环主体中的变量与循环条件无关",
+   "page": 23,
+   "pos": [
+    23,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 23,
+   "pos": [
+    23,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第2章 线性表",
+   "page": 24,
+   "pos": [
+    24,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.1  线性表的定义和基本操作",
+   "page": 24,
+   "pos": [
+    24,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.1  线性表的定义",
+   "page": 24,
+   "pos": [
+    24,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.2  线性表的基本操作",
+   "page": 25,
+   "pos": [
+    25,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.3  本节试题精选",
+   "page": 25,
+   "pos": [
+    25,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 25,
+   "pos": [
+    25,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.4  答案与解析",
+   "page": 25,
+   "pos": [
+    25,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 25,
+   "pos": [
+    25,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.2  线性表的顺序表示",
+   "page": 26,
+   "pos": [
+    26,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.1  顺序表的定义",
+   "page": 26,
+   "pos": [
+    26,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.2  顺序表上基本操作的实现",
+   "page": 27,
+   "pos": [
+    27,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．顺序表的初始化",
+   "page": 27,
+   "pos": [
+    27,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．插入操作",
+   "page": 28,
+   "pos": [
+    28,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．删除操作",
+   "page": 28,
+   "pos": [
+    28,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．按值查找（顺序查找）",
+   "page": 29,
+   "pos": [
+    29,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.3  本节试题精选",
+   "page": 29,
+   "pos": [
+    29,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 29,
+   "pos": [
+    29,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 31,
+   "pos": [
+    31,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.4  答案与解析",
+   "page": 32,
+   "pos": [
+    32,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 32,
+   "pos": [
+    32,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 33,
+   "pos": [
+    33,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.3  线性表的链式表示",
+   "page": 41,
+   "pos": [
+    41,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.1  单链表的定义",
+   "page": 42,
+   "pos": [
+    42,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.2  单链表上基本操作的实现",
+   "page": 42,
+   "pos": [
+    42,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．单链表的初始化",
+   "page": 42,
+   "pos": [
+    42,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．求表长操作",
+   "page": 43,
+   "pos": [
+    43,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．按序号查找结点",
+   "page": 43,
+   "pos": [
+    43,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．按值查找表结点",
+   "page": 43,
+   "pos": [
+    43,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．插入结点操作",
+   "page": 44,
+   "pos": [
+    44,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．删除结点操作",
+   "page": 44,
+   "pos": [
+    44,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "7．采用头插法建立单链表",
+   "page": 45,
+   "pos": [
+    45,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "8．采用尾插法建立单链表",
+   "page": 46,
+   "pos": [
+    46,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.3  双链表",
+   "page": 47,
+   "pos": [
+    47,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．双链表的插入操作",
+   "page": 47,
+   "pos": [
+    47,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．双链表的删除操作",
+   "page": 48,
+   "pos": [
+    48,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.4  循环链表",
+   "page": 48,
+   "pos": [
+    48,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．循环单链表",
+   "page": 48,
+   "pos": [
+    48,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．循环双链表",
+   "page": 48,
+   "pos": [
+    48,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.5  静态链表",
+   "page": 49,
+   "pos": [
+    49,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.6  顺序表和链表的比较",
+   "page": 49,
+   "pos": [
+    49,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．存取（读/写）方式",
+   "page": 49,
+   "pos": [
+    49,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．逻辑结构与物理结构",
+   "page": 49,
+   "pos": [
+    49,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．查找、插入和删除操作",
+   "page": 50,
+   "pos": [
+    50,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．空间分配",
+   "page": 50,
+   "pos": [
+    50,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．基于存储的考虑",
+   "page": 50,
+   "pos": [
+    50,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．基于运算的考虑",
+   "page": 50,
+   "pos": [
+    50,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．基于环境的考虑",
+   "page": 50,
+   "pos": [
+    50,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.7  本节试题精选",
+   "page": 50,
+   "pos": [
+    50,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 50,
+   "pos": [
+    50,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 54,
+   "pos": [
+    54,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.8  答案与解析",
+   "page": 56,
+   "pos": [
+    56,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 56,
+   "pos": [
+    56,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 60,
+   "pos": [
+    60,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 73,
+   "pos": [
+    73,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 73,
+   "pos": [
+    73,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第3章 栈、队列和数组",
+   "page": 74,
+   "pos": [
+    74,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.1  栈",
+   "page": 74,
+   "pos": [
+    74,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.1  栈的基本概念",
+   "page": 74,
+   "pos": [
+    74,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．栈的定义",
+   "page": 74,
+   "pos": [
+    74,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．栈的基本操作",
+   "page": 75,
+   "pos": [
+    75,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.2  栈的顺序存储结构",
+   "page": 75,
+   "pos": [
+    75,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．顺序栈的实现",
+   "page": 75,
+   "pos": [
+    75,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．顺序栈的基本操作",
+   "page": 76,
+   "pos": [
+    76,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．共享栈",
+   "page": 77,
+   "pos": [
+    77,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.3  栈的链式存储结构",
+   "page": 77,
+   "pos": [
+    77,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.4  本节试题精选",
+   "page": 78,
+   "pos": [
+    78,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 78,
+   "pos": [
+    78,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 80,
+   "pos": [
+    80,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.5  答案与解析",
+   "page": 80,
+   "pos": [
+    80,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 80,
+   "pos": [
+    80,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 84,
+   "pos": [
+    84,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.2  队列",
+   "page": 87,
+   "pos": [
+    87,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.1  队列的基本概念",
+   "page": 87,
+   "pos": [
+    87,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．队列的定义",
+   "page": 87,
+   "pos": [
+    87,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．队列常见的基本操作",
+   "page": 87,
+   "pos": [
+    87,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.2  队列的顺序存储结构",
+   "page": 87,
+   "pos": [
+    87,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．队列的顺序存储",
+   "page": 87,
+   "pos": [
+    87,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．循环队列",
+   "page": 88,
+   "pos": [
+    88,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．循环队列的操作（基于牺牲一个单元法）",
+   "page": 89,
+   "pos": [
+    89,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.3  队列的链式存储结构",
+   "page": 90,
+   "pos": [
+    90,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．队列的链式存储",
+   "page": 90,
+   "pos": [
+    90,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．链式队列的基本操作",
+   "page": 90,
+   "pos": [
+    90,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.4  双端队列",
+   "page": 91,
+   "pos": [
+    91,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.5  本节试题精选",
+   "page": 93,
+   "pos": [
+    93,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 93,
+   "pos": [
+    93,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 95,
+   "pos": [
+    95,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.6  答案与解析",
+   "page": 95,
+   "pos": [
+    95,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 95,
+   "pos": [
+    95,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 98,
+   "pos": [
+    98,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.3  栈和队列的应用",
+   "page": 101,
+   "pos": [
+    101,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.1  栈在括号匹配中的应用",
+   "page": 101,
+   "pos": [
+    101,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.2  栈在表达式求值中的应用",
+   "page": 101,
+   "pos": [
+    101,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．算术表达式",
+   "page": 101,
+   "pos": [
+    101,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．中缀表达式转后缀表达式",
+   "page": 102,
+   "pos": [
+    102,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．后缀表达式求值",
+   "page": 103,
+   "pos": [
+    103,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.3  栈在递归中的应用",
+   "page": 103,
+   "pos": [
+    103,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.4  队列在层次遍历中的应用",
+   "page": 104,
+   "pos": [
+    104,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.5  队列在计算机系统中的应用",
+   "page": 105,
+   "pos": [
+    105,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.6  本节试题精选",
+   "page": 105,
+   "pos": [
+    105,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 105,
+   "pos": [
+    105,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 107,
+   "pos": [
+    107,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.3.7  答案与解析",
+   "page": 107,
+   "pos": [
+    107,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 107,
+   "pos": [
+    107,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 111,
+   "pos": [
+    111,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.4  数组和特殊矩阵",
+   "page": 111,
+   "pos": [
+    111,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.1  数组的定义",
+   "page": 111,
+   "pos": [
+    111,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.2  数组的存储结构",
+   "page": 112,
+   "pos": [
+    112,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.3  特殊矩阵的压缩存储",
+   "page": 112,
+   "pos": [
+    112,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．对称矩阵",
+   "page": 112,
+   "pos": [
+    112,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．三角矩阵",
+   "page": 113,
+   "pos": [
+    113,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．三对角矩阵",
+   "page": 114,
+   "pos": [
+    114,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.4  稀疏矩阵",
+   "page": 114,
+   "pos": [
+    114,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.5  本节试题精选",
+   "page": 115,
+   "pos": [
+    115,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 115,
+   "pos": [
+    115,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.4.6  答案与解析",
+   "page": 116,
+   "pos": [
+    116,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 116,
+   "pos": [
+    116,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 119,
+   "pos": [
+    119,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 119,
+   "pos": [
+    119,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第4章 串",
+   "page": 120,
+   "pos": [
+    120,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "*4.1  串的定义和实现",
+   "page": 120,
+   "pos": [
+    120,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.1  串的定义",
+   "page": 120,
+   "pos": [
+    120,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.2  串的基本操作",
+   "page": 121,
+   "pos": [
+    121,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.3  串的存储结构",
+   "page": 121,
+   "pos": [
+    121,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．定长顺序存储表示",
+   "page": 121,
+   "pos": [
+    121,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．堆分配存储表示",
+   "page": 122,
+   "pos": [
+    122,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．块链存储表示",
+   "page": 122,
+   "pos": [
+    122,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.2  串的模式匹配",
+   "page": 122,
+   "pos": [
+    122,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.1  简单的模式匹配算法",
+   "page": 122,
+   "pos": [
+    122,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.2  串的模式匹配算法——KMP算法",
+   "page": 123,
+   "pos": [
+    123,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．KMP算法的原理",
+   "page": 124,
+   "pos": [
+    124,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．next数组的手算方法",
+   "page": 125,
+   "pos": [
+    125,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "*3．next数组的推理公式",
+   "page": 126,
+   "pos": [
+    126,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "4．KMP算法的实现",
+   "page": 127,
+   "pos": [
+    127,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.3  KMP算法的进一步优化",
+   "page": 128,
+   "pos": [
+    128,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.4  本节试题精选",
+   "page": 129,
+   "pos": [
+    129,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 129,
+   "pos": [
+    129,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 129,
+   "pos": [
+    129,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.5  答案与解析",
+   "page": 130,
+   "pos": [
+    130,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 130,
+   "pos": [
+    130,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 132,
+   "pos": [
+    132,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 134,
+   "pos": [
+    134,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 134,
+   "pos": [
+    134,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第5章 树与二叉树",
+   "page": 135,
+   "pos": [
+    135,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.1  树的基本概念",
+   "page": 135,
+   "pos": [
+    135,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.1  树的定义",
+   "page": 135,
+   "pos": [
+    135,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.2  基本术语",
+   "page": 136,
+   "pos": [
+    136,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.3  树的性质",
+   "page": 137,
+   "pos": [
+    137,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 2,
+   "title": "5.1.4  本节试题精选",
+   "page": 137,
+   "pos": [
+    137,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 137,
+   "pos": [
+    137,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 138,
+   "pos": [
+    138,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.5  答案与解析",
+   "page": 138,
+   "pos": [
+    138,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 138,
+   "pos": [
+    138,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 140,
+   "pos": [
+    140,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.2  二叉树的概念",
+   "page": 140,
+   "pos": [
+    140,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.1  二叉树的定义及其主要特性",
+   "page": 140,
+   "pos": [
+    140,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．二叉树的定义",
+   "page": 140,
+   "pos": [
+    140,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．几种特殊的二叉树",
+   "page": 141,
+   "pos": [
+    141,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．二叉树的性质",
+   "page": 141,
+   "pos": [
+    141,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.2  二叉树的存储结构",
+   "page": 142,
+   "pos": [
+    142,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．顺序存储结构",
+   "page": 142,
+   "pos": [
+    142,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．链式存储结构",
+   "page": 143,
+   "pos": [
+    143,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.3  本节试题精选",
+   "page": 144,
+   "pos": [
+    144,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 144,
+   "pos": [
+    144,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 146,
+   "pos": [
+    146,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.4  答案与解析",
+   "page": 146,
+   "pos": [
+    146,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 146,
+   "pos": [
+    146,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 149,
+   "pos": [
+    149,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.3  二叉树的遍历和线索二叉树",
+   "page": 151,
+   "pos": [
+    151,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.1  二叉树的遍历",
+   "page": 151,
+   "pos": [
+    151,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．先序遍历（PreOrder）",
+   "page": 151,
+   "pos": [
+    151,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．中序遍历（InOrder）",
+   "page": 152,
+   "pos": [
+    152,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．后序遍历（PostOrder）",
+   "page": 152,
+   "pos": [
+    152,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "4．层次遍历",
+   "page": 152,
+   "pos": [
+    152,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．由遍历序列构造二叉树",
+   "page": 153,
+   "pos": [
+    153,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.2  线索二叉树",
+   "page": 154,
+   "pos": [
+    154,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．线索二叉树的基本概念",
+   "page": 154,
+   "pos": [
+    154,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．中序线索二叉树的构造",
+   "page": 155,
+   "pos": [
+    155,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．中序线索二叉树的遍历",
+   "page": 156,
+   "pos": [
+    156,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．先序线索二叉树和后序线索二叉树",
+   "page": 157,
+   "pos": [
+    157,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.3  本节试题精选",
+   "page": 157,
+   "pos": [
+    157,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 157,
+   "pos": [
+    157,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 161,
+   "pos": [
+    161,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.4  答案与解析",
+   "page": 163,
+   "pos": [
+    163,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 163,
+   "pos": [
+    163,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 169,
+   "pos": [
+    169,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.4  树、森林",
+   "page": 179,
+   "pos": [
+    179,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.4.1  树的存储结构",
+   "page": 179,
+   "pos": [
+    179,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．双亲表示法",
+   "page": 179,
+   "pos": [
+    179,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．孩子表示法",
+   "page": 180,
+   "pos": [
+    180,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．孩子兄弟表示法",
+   "page": 180,
+   "pos": [
+    180,
+    41
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.4.2  树、森林与二叉树的转换",
+   "page": 181,
+   "pos": [
+    181,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．树转换为二叉树",
+   "page": 181,
+   "pos": [
+    181,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．森林转换为二叉树",
+   "page": 181,
+   "pos": [
+    181,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．二叉树转换为森林",
+   "page": 182,
+   "pos": [
+    182,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.4.3  树和森林的遍历",
+   "page": 182,
+   "pos": [
+    182,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．树的遍历",
+   "page": 182,
+   "pos": [
+    182,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．森林的遍历",
+   "page": 182,
+   "pos": [
+    182,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.4.4  本节试题精选",
+   "page": 183,
+   "pos": [
+    183,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 183,
+   "pos": [
+    183,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 185,
+   "pos": [
+    185,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.4.5  答案与解析",
+   "page": 186,
+   "pos": [
+    186,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 186,
+   "pos": [
+    186,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 190,
+   "pos": [
+    190,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.5  树与二叉树的应用",
+   "page": 191,
+   "pos": [
+    191,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.5.1  哈夫曼树和哈夫曼编码",
+   "page": 191,
+   "pos": [
+    191,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．哈夫曼树的定义",
+   "page": 191,
+   "pos": [
+    191,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．哈夫曼树的构造",
+   "page": 192,
+   "pos": [
+    192,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．哈夫曼编码",
+   "page": 193,
+   "pos": [
+    193,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.5.2  并查集",
+   "page": 194,
+   "pos": [
+    194,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．并查集的概念",
+   "page": 194,
+   "pos": [
+    194,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．并查集的存储结构",
+   "page": 194,
+   "pos": [
+    194,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．并查集的基本实现",
+   "page": 194,
+   "pos": [
+    194,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．并查集实现的优化",
+   "page": 195,
+   "pos": [
+    195,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.5.3  本节试题精选",
+   "page": 196,
+   "pos": [
+    196,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 196,
+   "pos": [
+    196,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 198,
+   "pos": [
+    198,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.5.4  答案与解析",
+   "page": 198,
+   "pos": [
+    198,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 198,
+   "pos": [
+    198,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 202,
+   "pos": [
+    202,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 203,
+   "pos": [
+    203,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 204,
+   "pos": [
+    204,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第6章 图",
+   "page": 205,
+   "pos": [
+    205,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.1　图的基本概念",
+   "page": 205,
+   "pos": [
+    205,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.1　图的定义",
+   "page": 205,
+   "pos": [
+    205,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．有向图",
+   "page": 206,
+   "pos": [
+    206,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．无向图",
+   "page": 206,
+   "pos": [
+    206,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．简单图、多重图",
+   "page": 206,
+   "pos": [
+    206,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．顶点的度、入度和出度",
+   "page": 206,
+   "pos": [
+    206,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．路径、路径长度和回路",
+   "page": 207,
+   "pos": [
+    207,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．简单路径、简单回路",
+   "page": 207,
+   "pos": [
+    207,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "7．距离",
+   "page": 207,
+   "pos": [
+    207,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "8．子图",
+   "page": 207,
+   "pos": [
+    207,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "9．连通、连通图和连通分量",
+   "page": 207,
+   "pos": [
+    207,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "10．强连通图、强连通分量",
+   "page": 207,
+   "pos": [
+    207,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "11．生成树、生成森林",
+   "page": 208,
+   "pos": [
+    208,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "12．边的权、网和带权路径长度",
+   "page": 208,
+   "pos": [
+    208,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "13．完全图（也称简单完全图）",
+   "page": 208,
+   "pos": [
+    208,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "14．稠密图、稀疏图",
+   "page": 208,
+   "pos": [
+    208,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "15．有向树",
+   "page": 208,
+   "pos": [
+    208,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.2　本节试题精选",
+   "page": 208,
+   "pos": [
+    208,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 208,
+   "pos": [
+    208,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 210,
+   "pos": [
+    210,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.1.3　答案与解析",
+   "page": 211,
+   "pos": [
+    211,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 210,
+   "pos": [
+    210,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 212,
+   "pos": [
+    212,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.2　图的存储及基本操作",
+   "page": 212,
+   "pos": [
+    212,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.1　邻接矩阵法",
+   "page": 212,
+   "pos": [
+    212,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.2　邻接表法",
+   "page": 214,
+   "pos": [
+    214,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.3　十字链表",
+   "page": 215,
+   "pos": [
+    215,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.4　邻接多重表",
+   "page": 216,
+   "pos": [
+    216,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.5　图的基本操作",
+   "page": 217,
+   "pos": [
+    217,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.6　本节试题精选",
+   "page": 217,
+   "pos": [
+    217,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 217,
+   "pos": [
+    217,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 219,
+   "pos": [
+    219,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.2.7　答案与解析",
+   "page": 221,
+   "pos": [
+    221,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 221,
+   "pos": [
+    221,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 223,
+   "pos": [
+    223,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.3　图的遍历",
+   "page": 225,
+   "pos": [
+    225,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.1　广度优先搜索",
+   "page": 225,
+   "pos": [
+    225,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．BFS算法的性能分析",
+   "page": 227,
+   "pos": [
+    227,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．BFS算法求解单源最短路径问题",
+   "page": 227,
+   "pos": [
+    227,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．广度优先生成树",
+   "page": 227,
+   "pos": [
+    227,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.2　深度优先搜索",
+   "page": 228,
+   "pos": [
+    228,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．DFS算法的性能分析",
+   "page": 229,
+   "pos": [
+    229,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．深度优先的生成树和生成森林",
+   "page": 229,
+   "pos": [
+    229,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.3　图的遍历与图的连通性",
+   "page": 229,
+   "pos": [
+    229,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.4　本节试题精选",
+   "page": 229,
+   "pos": [
+    229,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 229,
+   "pos": [
+    229,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 231,
+   "pos": [
+    231,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.3.5　答案与解析",
+   "page": 232,
+   "pos": [
+    232,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 232,
+   "pos": [
+    232,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 234,
+   "pos": [
+    234,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "6.4　图的应用",
+   "page": 237,
+   "pos": [
+    237,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.1　最小生成树",
+   "page": 237,
+   "pos": [
+    237,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．Prim算法",
+   "page": 238,
+   "pos": [
+    238,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．Kruskal算法",
+   "page": 238,
+   "pos": [
+    238,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.2　最短路径",
+   "page": 239,
+   "pos": [
+    239,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．Dijkstra算法求单源最短路径问题",
+   "page": 240,
+   "pos": [
+    240,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．Floyd算法求各顶点之间最短路径问题",
+   "page": 241,
+   "pos": [
+    241,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.3　有向无环图描述表达式",
+   "page": 243,
+   "pos": [
+    243,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.4　拓扑排序",
+   "page": 243,
+   "pos": [
+    243,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.5　关键路径",
+   "page": 245,
+   "pos": [
+    245,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．事件vk的最早发生时间ve(k)",
+   "page": 246,
+   "pos": [
+    246,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．事件vk的最迟发生时间vl(k)",
+   "page": 246,
+   "pos": [
+    246,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．活动ai的最早开始时间e(i)",
+   "page": 246,
+   "pos": [
+    246,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．活动ai的最迟开始时间l(i)",
+   "page": 247,
+   "pos": [
+    247,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．一个活动ai的最迟开始时间l(i)与其最早开始时间e(i)的差额：",
+   "page": 247,
+   "pos": [
+    247,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.6　本节试题精选",
+   "page": 248,
+   "pos": [
+    248,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 248,
+   "pos": [
+    248,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 254,
+   "pos": [
+    254,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "6.4.7　答案与解析",
+   "page": 257,
+   "pos": [
+    257,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 257,
+   "pos": [
+    257,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 264,
+   "pos": [
+    264,
+    40
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 273,
+   "pos": [
+    273,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 274,
+   "pos": [
+    274,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第7章 查找",
+   "page": 275,
+   "pos": [
+    275,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "7.1  查找的基本概念",
+   "page": 275,
+   "pos": [
+    275,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "7.2  顺序查找和折半查找",
+   "page": 276,
+   "pos": [
+    276,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.2.1  顺序查找",
+   "page": 276,
+   "pos": [
+    276,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．一般线性表的顺序查找",
+   "page": 276,
+   "pos": [
+    276,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．有序线性表的顺序查找",
+   "page": 277,
+   "pos": [
+    277,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.2.2  折半查找",
+   "page": 278,
+   "pos": [
+    278,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.2.3  分块查找",
+   "page": 279,
+   "pos": [
+    279,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.2.4  本节试题精选",
+   "page": 280,
+   "pos": [
+    280,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 280,
+   "pos": [
+    280,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 282,
+   "pos": [
+    282,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.2.5  答案与解析",
+   "page": 283,
+   "pos": [
+    283,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 283,
+   "pos": [
+    283,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 287,
+   "pos": [
+    287,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "7.3  树形查找",
+   "page": 289,
+   "pos": [
+    289,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.3.1  二叉排序树（BST）",
+   "page": 289,
+   "pos": [
+    289,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．二叉排序树的定义",
+   "page": 290,
+   "pos": [
+    290,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．二叉排序树的查找",
+   "page": 290,
+   "pos": [
+    290,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．二叉排序树的插入",
+   "page": 290,
+   "pos": [
+    290,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．二叉排序树的构造",
+   "page": 291,
+   "pos": [
+    291,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．二叉排序树的删除",
+   "page": 291,
+   "pos": [
+    291,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．二叉排序树的查找效率分析",
+   "page": 292,
+   "pos": [
+    292,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.3.2  平衡二叉树",
+   "page": 293,
+   "pos": [
+    293,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．平衡二叉树的定义",
+   "page": 293,
+   "pos": [
+    293,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．平衡二叉树的插入",
+   "page": 293,
+   "pos": [
+    293,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．平衡二叉树的删除",
+   "page": 296,
+   "pos": [
+    296,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．平衡二叉树的查找",
+   "page": 296,
+   "pos": [
+    296,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.3.3  红黑树",
+   "page": 297,
+   "pos": [
+    297,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．红黑树的定义",
+   "page": 297,
+   "pos": [
+    297,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．红黑树的插入",
+   "page": 298,
+   "pos": [
+    298,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "*3．红黑树的删除",
+   "page": 299,
+   "pos": [
+    299,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.3.4  本节试题精选",
+   "page": 302,
+   "pos": [
+    302,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 302,
+   "pos": [
+    302,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 305,
+   "pos": [
+    305,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.3.5  答案与解析",
+   "page": 306,
+   "pos": [
+    306,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 306,
+   "pos": [
+    306,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 312,
+   "pos": [
+    312,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "7.4  B树 和B+树",
+   "page": 315,
+   "pos": [
+    315,
+    39
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.4.1  B树及其基本操作",
+   "page": 316,
+   "pos": [
+    316,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．B树的查找",
+   "page": 316,
+   "pos": [
+    316,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．B树的高度（磁盘存取次数）",
+   "page": 317,
+   "pos": [
+    317,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．B树的插入",
+   "page": 317,
+   "pos": [
+    317,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．B树的删除",
+   "page": 318,
+   "pos": [
+    318,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.4.2  B+树的基本概念",
+   "page": 319,
+   "pos": [
+    319,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.4.3  本节试题精选",
+   "page": 320,
+   "pos": [
+    320,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 320,
+   "pos": [
+    320,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 322,
+   "pos": [
+    322,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.4.4  答案与解析",
+   "page": 322,
+   "pos": [
+    322,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 322,
+   "pos": [
+    322,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 326,
+   "pos": [
+    326,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "7.5  散列（Hash）表",
+   "page": 328,
+   "pos": [
+    328,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.5.1  散列表的基本概念",
+   "page": 328,
+   "pos": [
+    328,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.5.2  散列函数的构造方法",
+   "page": 329,
+   "pos": [
+    329,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．直接定址法",
+   "page": 329,
+   "pos": [
+    329,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．除留余数法",
+   "page": 329,
+   "pos": [
+    329,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．数字分析法",
+   "page": 329,
+   "pos": [
+    329,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．平方取中法",
+   "page": 329,
+   "pos": [
+    329,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.5.3  处理冲突的方法",
+   "page": 329,
+   "pos": [
+    329,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．开放定址法",
+   "page": 330,
+   "pos": [
+    330,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．拉链法（链接法，chaining）",
+   "page": 330,
+   "pos": [
+    330,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.5.4  散列查找及性能分析的应用",
+   "page": 331,
+   "pos": [
+    331,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.5.5  本节试题精选",
+   "page": 332,
+   "pos": [
+    332,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 335,
+   "pos": [
+    335,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 334,
+   "pos": [
+    334,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "7.5.6  答案与解析",
+   "page": 335,
+   "pos": [
+    335,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 332,
+   "pos": [
+    332,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 338,
+   "pos": [
+    338,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "归纳总结",
+   "page": 341,
+   "pos": [
+    341,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "思维拓展",
+   "page": 341,
+   "pos": [
+    341,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第8章 排序",
+   "page": 345,
+   "pos": [
+    345,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 1,
+   "title": "8.1  排序的基本概念",
+   "page": 342,
+   "pos": [
+    342,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.1.1  排序的定义",
+   "page": 342,
+   "pos": [
+    342,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.1.2  本节试题精选",
+   "page": 343,
+   "pos": [
+    343,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 347,
+   "pos": [
+    347,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.1.3  答案与解析",
+   "page": 343,
+   "pos": [
+    343,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 343,
+   "pos": [
+    343,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "8.2  插入排序",
+   "page": 344,
+   "pos": [
+    344,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.2.1  直接插入排序",
+   "page": 345,
+   "pos": [
+    345,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.2.2  折半插入排序",
+   "page": 345,
+   "pos": [
+    345,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.2.3  希尔排序",
+   "page": 346,
+   "pos": [
+    346,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.2.4  本节试题精选",
+   "page": 347,
+   "pos": [
+    347,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 349,
+   "pos": [
+    349,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 350,
+   "pos": [
+    350,
+    39
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.2.5  答案与解析",
+   "page": 349,
+   "pos": [
+    349,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 355,
+   "pos": [
+    355,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 356,
+   "pos": [
+    356,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "8.3  交换排序",
+   "page": 351,
+   "pos": [
+    351,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.3.1  冒泡排序",
+   "page": 354,
+   "pos": [
+    354,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 2,
+   "title": "8.3.2  快速排序",
+   "page": 352,
+   "pos": [
+    352,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.3.3  本节试题精选",
+   "page": 355,
+   "pos": [
+    355,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 357,
+   "pos": [
+    357,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 359,
+   "pos": [
+    359,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.3.4  答案与解析",
+   "page": 357,
+   "pos": [
+    357,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 365,
+   "pos": [
+    365,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 367,
+   "pos": [
+    367,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "8.4  选择排序",
+   "page": 362,
+   "pos": [
+    362,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.4.1  简单选择排序",
+   "page": 362,
+   "pos": [
+    362,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.4.2  堆排序",
+   "page": 362,
+   "pos": [
+    362,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.4.3  本节试题精选",
+   "page": 365,
+   "pos": [
+    365,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 368,
+   "pos": [
+    368,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 371,
+   "pos": [
+    371,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.4.4  答案与解析",
+   "page": 368,
+   "pos": [
+    368,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 378,
+   "pos": [
+    378,
+    39
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 380,
+   "pos": [
+    380,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "8.5  归并排序、基数排序和计数排序",
+   "page": 377,
+   "pos": [
+    377,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 2,
+   "title": "8.5.1  归并排序",
+   "page": 374,
+   "pos": [
+    374,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.5.2  基数排序",
+   "page": 376,
+   "pos": [
+    376,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "*8.5.3  计数排序",
+   "page": 377,
+   "pos": [
+    377,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.5.4  本节试题精选",
+   "page": 378,
+   "pos": [
+    378,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 381,
+   "pos": [
+    381,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 383,
+   "pos": [
+    383,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.5.5  答案与解析",
+   "page": 381,
+   "pos": [
+    381,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 385,
+   "pos": [
+    385,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 388,
+   "pos": [
+    388,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "8.6  各种内部排序算法的比较及应用",
+   "page": 384,
+   "pos": [
+    384,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.6.1  内部排序算法的比较",
+   "page": 384,
+   "pos": [
+    384,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.6.2  内部排序算法的应用",
+   "page": 385,
+   "pos": [
+    385,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．选取排序算法需要考虑的因素",
+   "page": 385,
+   "pos": [
+    385,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．排序算法选型小结",
+   "page": 385,
+   "pos": [
+    385,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.6.3  本节试题精选",
+   "page": 385,
+   "pos": [
+    385,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 388,
+   "pos": [
+    388,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 390,
+   "pos": [
+    390,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.6.4  答案与解析",
+   "page": 388,
+   "pos": [
+    388,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 396,
+   "pos": [
+    396,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 397,
+   "pos": [
+    397,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "8.7  外部排序",
+   "page": 391,
+   "pos": [
+    391,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.7.1  外部排序的基本概念",
+   "page": 391,
+   "pos": [
+    391,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.7.2  外部排序的方法",
+   "page": 392,
+   "pos": [
+    392,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.7.3  多路平衡归并与败者树",
+   "page": 393,
+   "pos": [
+    393,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.7.4  置换-选择排序（生成初始归并段）",
+   "page": 394,
+   "pos": [
+    394,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.7.5  最佳归并树",
+   "page": 398,
+   "pos": [
+    398,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 2,
+   "title": "8.7.6  本节试题精选",
+   "page": 396,
+   "pos": [
+    396,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 397,
+   "pos": [
+    397,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 399,
+   "pos": [
+    399,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "8.7.7  答案与解析",
+   "page": 397,
+   "pos": [
+    397,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 400,
+   "pos": [
+    400,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 348,
+   "pos": [
+    348,
+    36
+   ],
+   "matched": true
+  }
+ ]
+}

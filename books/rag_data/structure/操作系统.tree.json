@@ -1,0 +1,4347 @@
+{
+ "key": "操作系统",
+ "source": "bookmarks",
+ "pages": 372,
+ "anchors": [
+  {
+   "level": 0,
+   "title": "前   言",
+   "page": 3,
+   "pos": [
+    3,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "致  读  者",
+   "page": 4,
+   "pos": [
+    4,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "王道训练营",
+   "page": 5,
+   "pos": [
+    5,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "目   录",
+   "page": 7,
+   "pos": [
+    7,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第1章 计算机系统概述",
+   "page": 12,
+   "pos": [
+    12,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 12,
+   "pos": [
+    12,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 12,
+   "pos": [
+    12,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.1  操作系统的基本概念",
+   "page": 12,
+   "pos": [
+    12,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.1  操作系统的概念",
+   "page": 12,
+   "pos": [
+    12,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.2  操作系统的功能和目标",
+   "page": 13,
+   "pos": [
+    13,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．操作系统作为计算机系统资源的管理者",
+   "page": 13,
+   "pos": [
+    13,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．操作系统作为用户与计算机硬件系统之间的接口",
+   "page": 13,
+   "pos": [
+    13,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．操作系统实现了对计算机资源的扩充",
+   "page": 14,
+   "pos": [
+    14,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.3  操作系统的特征",
+   "page": 14,
+   "pos": [
+    14,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．并发（Concurrency）",
+   "page": 14,
+   "pos": [
+    14,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．共享（Sharing）",
+   "page": 15,
+   "pos": [
+    15,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．虚拟（Virtual）",
+   "page": 15,
+   "pos": [
+    15,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．异步（Asynchronism）",
+   "page": 16,
+   "pos": [
+    16,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.4  本节习题精选",
+   "page": 16,
+   "pos": [
+    16,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 16,
+   "pos": [
+    16,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.1.5  答案与解析",
+   "page": 17,
+   "pos": [
+    17,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 17,
+   "pos": [
+    17,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.2  操作系统发展历程",
+   "page": 18,
+   "pos": [
+    18,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.1  手工操作阶段（未配置操作系统）",
+   "page": 18,
+   "pos": [
+    18,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．人工操作方式",
+   "page": 18,
+   "pos": [
+    18,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．脱机I/O方式",
+   "page": 18,
+   "pos": [
+    18,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.2  批处理阶段（操作系统开始出现）",
+   "page": 18,
+   "pos": [
+    18,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．单道批处理系统",
+   "page": 18,
+   "pos": [
+    18,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．多道批处理系统",
+   "page": 19,
+   "pos": [
+    19,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.3  分时操作系统",
+   "page": 19,
+   "pos": [
+    19,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.4  实时操作系统",
+   "page": 19,
+   "pos": [
+    19,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.5  网络操作系统和分布式系统",
+   "page": 20,
+   "pos": [
+    20,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.6  微机操作系统",
+   "page": 20,
+   "pos": [
+    20,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．单用户单任务操作系统",
+   "page": 20,
+   "pos": [
+    20,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．单用户多任务操作系统",
+   "page": 20,
+   "pos": [
+    20,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．多用户多任务操作系统",
+   "page": 20,
+   "pos": [
+    20,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.7  本节习题精选",
+   "page": 21,
+   "pos": [
+    21,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 21,
+   "pos": [
+    21,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 23,
+   "pos": [
+    23,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.2.8  答案与解析",
+   "page": 23,
+   "pos": [
+    23,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 23,
+   "pos": [
+    23,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 25,
+   "pos": [
+    25,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.3  操作系统的运行环境",
+   "page": 26,
+   "pos": [
+    26,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.3.1  操作系统内核",
+   "page": 26,
+   "pos": [
+    26,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．支撑功能",
+   "page": 26,
+   "pos": [
+    26,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．系统资源管理功能",
+   "page": 26,
+   "pos": [
+    26,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.3.2  处理机的双重工作模式",
+   "page": 27,
+   "pos": [
+    27,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.3.3  中断和异常的概念",
+   "page": 27,
+   "pos": [
+    27,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．中断和异常的定义",
+   "page": 27,
+   "pos": [
+    27,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．中断和异常的分类",
+   "page": 28,
+   "pos": [
+    28,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．中断和异常的处理过程",
+   "page": 28,
+   "pos": [
+    28,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.3.4  系统调用",
+   "page": 28,
+   "pos": [
+    28,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.3.5  本节习题精选",
+   "page": 30,
+   "pos": [
+    30,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 30,
+   "pos": [
+    30,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.3.6  答案与解析",
+   "page": 33,
+   "pos": [
+    33,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 33,
+   "pos": [
+    33,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.4  操作系统结构",
+   "page": 37,
+   "pos": [
+    37,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．分层法",
+   "page": 37,
+   "pos": [
+    37,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．模块化",
+   "page": 37,
+   "pos": [
+    37,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3．宏内核",
+   "page": 38,
+   "pos": [
+    38,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4．微内核",
+   "page": 38,
+   "pos": [
+    38,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5．外核",
+   "page": 39,
+   "pos": [
+    39,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.5  操作系统引导",
+   "page": 40,
+   "pos": [
+    40,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.6  虚拟机",
+   "page": 41,
+   "pos": [
+    41,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.6.1  虚拟机的基本概念",
+   "page": 41,
+   "pos": [
+    41,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．第一类虚拟机管理程序",
+   "page": 41,
+   "pos": [
+    41,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．第二类虚拟机管理程序",
+   "page": 41,
+   "pos": [
+    41,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.6.2  本节习题精选",
+   "page": 42,
+   "pos": [
+    42,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 42,
+   "pos": [
+    42,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1.6.3  答案与解析",
+   "page": 44,
+   "pos": [
+    44,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 44,
+   "pos": [
+    44,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "1.7  本章疑难点",
+   "page": 46,
+   "pos": [
+    46,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．并行性与并发性的区别和联系",
+   "page": 46,
+   "pos": [
+    46,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．特权指令与非特权指令",
+   "page": 46,
+   "pos": [
+    46,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3．访管指令与访管中断",
+   "page": 47,
+   "pos": [
+    47,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4．定义微内核结构OS的四个方面",
+   "page": 47,
+   "pos": [
+    47,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第2章 进程与线程",
+   "page": 48,
+   "pos": [
+    48,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 48,
+   "pos": [
+    48,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 48,
+   "pos": [
+    48,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.1  进程与线程简介",
+   "page": 48,
+   "pos": [
+    48,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.1  进程的概念和特征",
+   "page": 49,
+   "pos": [
+    49,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．进程的概念",
+   "page": 49,
+   "pos": [
+    49,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．进程的特征",
+   "page": 49,
+   "pos": [
+    49,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.2  进程的组成",
+   "page": 49,
+   "pos": [
+    49,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．进程控制块",
+   "page": 49,
+   "pos": [
+    49,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．程序段",
+   "page": 50,
+   "pos": [
+    50,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．数据段",
+   "page": 51,
+   "pos": [
+    51,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.3  进程的内存映像",
+   "page": 51,
+   "pos": [
+    51,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．代码段",
+   "page": 51,
+   "pos": [
+    51,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．数据段",
+   "page": 51,
+   "pos": [
+    51,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．进程控制块（PCB）",
+   "page": 51,
+   "pos": [
+    51,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．堆",
+   "page": 51,
+   "pos": [
+    51,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．栈",
+   "page": 51,
+   "pos": [
+    51,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．共享库的存储映射区",
+   "page": 51,
+   "pos": [
+    51,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.4  进程的状态与转换",
+   "page": 52,
+   "pos": [
+    52,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.5  进程控制",
+   "page": 53,
+   "pos": [
+    53,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．进程的创建",
+   "page": 53,
+   "pos": [
+    53,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．进程的终止",
+   "page": 54,
+   "pos": [
+    54,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．进程的阻塞和唤醒",
+   "page": 54,
+   "pos": [
+    54,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.6  进程的通信",
+   "page": 54,
+   "pos": [
+    54,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．共享存储",
+   "page": 55,
+   "pos": [
+    55,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．消息传递",
+   "page": 55,
+   "pos": [
+    55,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．管道通信",
+   "page": 55,
+   "pos": [
+    55,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．信号",
+   "page": 56,
+   "pos": [
+    56,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.7  线程和多线程模型",
+   "page": 56,
+   "pos": [
+    56,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．线程的基本概念",
+   "page": 56,
+   "pos": [
+    56,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．线程与进程的比较",
+   "page": 57,
+   "pos": [
+    57,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．线程的状态与生命周期",
+   "page": 58,
+   "pos": [
+    58,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．线程控制块",
+   "page": 58,
+   "pos": [
+    58,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．线程的实现方式",
+   "page": 58,
+   "pos": [
+    58,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.8  本节小结",
+   "page": 61,
+   "pos": [
+    61,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.9  本节习题精选",
+   "page": 62,
+   "pos": [
+    62,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 62,
+   "pos": [
+    62,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 68,
+   "pos": [
+    68,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.1.10  答案与解析",
+   "page": 69,
+   "pos": [
+    69,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 69,
+   "pos": [
+    69,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 77,
+   "pos": [
+    77,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.2  CPU调度",
+   "page": 77,
+   "pos": [
+    77,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.1  调度的概念",
+   "page": 77,
+   "pos": [
+    77,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．调度的基本概念",
+   "page": 77,
+   "pos": [
+    77,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．调度的层次",
+   "page": 77,
+   "pos": [
+    77,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．三级调度的联系",
+   "page": 78,
+   "pos": [
+    78,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.2  进程调度",
+   "page": 78,
+   "pos": [
+    78,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1. 进程调度任务",
+   "page": 78,
+   "pos": [
+    78,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．调度程序（调度器）",
+   "page": 79,
+   "pos": [
+    79,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．调度的时机、切换与过程",
+   "page": 79,
+   "pos": [
+    79,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．进程调度的方式",
+   "page": 80,
+   "pos": [
+    80,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．闲逛进程",
+   "page": 80,
+   "pos": [
+    80,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．两种线程的调度",
+   "page": 80,
+   "pos": [
+    80,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.3  调度的目标",
+   "page": 81,
+   "pos": [
+    81,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.4  进程切换",
+   "page": 81,
+   "pos": [
+    81,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.5  CPU调度算法",
+   "page": 82,
+   "pos": [
+    82,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．先来先服务（FCFS）调度算法",
+   "page": 82,
+   "pos": [
+    82,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．短作业优先（SJF）调度算法",
+   "page": 83,
+   "pos": [
+    83,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．高响应比优先调度算法",
+   "page": 84,
+   "pos": [
+    84,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．优先级调度算法",
+   "page": 84,
+   "pos": [
+    84,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．时间片轮转（RR）调度算法",
+   "page": 85,
+   "pos": [
+    85,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．多级队列调度算法",
+   "page": 86,
+   "pos": [
+    86,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "7．多级反馈队列调度算法（融合了前几种算法的优点）",
+   "page": 86,
+   "pos": [
+    86,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "8．基于公平原则的调度算法",
+   "page": 87,
+   "pos": [
+    87,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.6  多处理机调度",
+   "page": 88,
+   "pos": [
+    88,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．亲和性和负载平衡",
+   "page": 88,
+   "pos": [
+    88,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．多处理机调度方案",
+   "page": 88,
+   "pos": [
+    88,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.7  本节小结",
+   "page": 89,
+   "pos": [
+    89,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.8  本节习题精选",
+   "page": 89,
+   "pos": [
+    89,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 89,
+   "pos": [
+    89,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 95,
+   "pos": [
+    95,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.2.9  答案与解析",
+   "page": 98,
+   "pos": [
+    98,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 98,
+   "pos": [
+    98,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 105,
+   "pos": [
+    105,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.3  同步与互斥",
+   "page": 110,
+   "pos": [
+    110,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.1  同步与互斥的基本概念",
+   "page": 110,
+   "pos": [
+    110,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．临界资源",
+   "page": 110,
+   "pos": [
+    110,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．同步（直接制约关系）",
+   "page": 110,
+   "pos": [
+    110,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．互斥（间接制约关系）",
+   "page": 111,
+   "pos": [
+    111,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.2  实现临界区互斥的基本方法",
+   "page": 111,
+   "pos": [
+    111,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．软件实现方法",
+   "page": 111,
+   "pos": [
+    111,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．硬件实现方法",
+   "page": 113,
+   "pos": [
+    113,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.3  互斥锁",
+   "page": 114,
+   "pos": [
+    114,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.4  信号量",
+   "page": 115,
+   "pos": [
+    115,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．整型信号量",
+   "page": 115,
+   "pos": [
+    115,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．记录型信号量",
+   "page": 115,
+   "pos": [
+    115,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．利用信号量实现进程互斥",
+   "page": 116,
+   "pos": [
+    116,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．利用信号量实现同步",
+   "page": 116,
+   "pos": [
+    116,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．利用信号量实现前驱关系",
+   "page": 117,
+   "pos": [
+    117,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．分析进程同步和互斥问题的方法步骤",
+   "page": 118,
+   "pos": [
+    118,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.5  经典同步问题",
+   "page": 118,
+   "pos": [
+    118,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．生产者-消费者问题",
+   "page": 118,
+   "pos": [
+    118,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．读者-写者问题",
+   "page": 120,
+   "pos": [
+    120,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．哲学家进餐问题",
+   "page": 122,
+   "pos": [
+    122,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.6  管程",
+   "page": 123,
+   "pos": [
+    123,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．管程的定义",
+   "page": 123,
+   "pos": [
+    123,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．条件变量",
+   "page": 124,
+   "pos": [
+    124,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.7  本节小结",
+   "page": 125,
+   "pos": [
+    125,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.8  本节习题精选",
+   "page": 125,
+   "pos": [
+    125,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 125,
+   "pos": [
+    125,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 132,
+   "pos": [
+    132,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.3.9  答案与解析",
+   "page": 138,
+   "pos": [
+    138,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 138,
+   "pos": [
+    138,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 143,
+   "pos": [
+    143,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.4  死锁",
+   "page": 160,
+   "pos": [
+    160,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.1  死锁的概念",
+   "page": 161,
+   "pos": [
+    161,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．死锁的定义",
+   "page": 161,
+   "pos": [
+    161,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．死锁与饥饿",
+   "page": 161,
+   "pos": [
+    161,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．死锁产生的原因",
+   "page": 161,
+   "pos": [
+    161,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．死锁产生的必要条件",
+   "page": 162,
+   "pos": [
+    162,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．死锁的处理策略",
+   "page": 162,
+   "pos": [
+    162,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.2  死锁预防",
+   "page": 163,
+   "pos": [
+    163,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "1．破坏互斥条件",
+   "page": 163,
+   "pos": [
+    163,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．破坏不可剥夺条件",
+   "page": 163,
+   "pos": [
+    163,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．破坏请求并保持条件",
+   "page": 163,
+   "pos": [
+    163,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．破坏循环等待条件",
+   "page": 163,
+   "pos": [
+    163,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.3  死锁避免",
+   "page": 164,
+   "pos": [
+    164,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．系统安全状态",
+   "page": 164,
+   "pos": [
+    164,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．利用银行家算法避免死锁",
+   "page": 164,
+   "pos": [
+    164,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．安全性算法举例",
+   "page": 166,
+   "pos": [
+    166,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．银行家算法举例",
+   "page": 167,
+   "pos": [
+    167,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.4  死锁检测与解除",
+   "page": 168,
+   "pos": [
+    168,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．死锁检测",
+   "page": 168,
+   "pos": [
+    168,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．死锁解除",
+   "page": 169,
+   "pos": [
+    169,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.5  本节小结",
+   "page": 169,
+   "pos": [
+    169,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.6  本节习题精选",
+   "page": 169,
+   "pos": [
+    169,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 169,
+   "pos": [
+    169,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 175,
+   "pos": [
+    175,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2.4.7  答案与解析",
+   "page": 176,
+   "pos": [
+    176,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 176,
+   "pos": [
+    176,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 183,
+   "pos": [
+    183,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "2.5  本章疑难点",
+   "page": 186,
+   "pos": [
+    186,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．进程与程序的区别与联系",
+   "page": 186,
+   "pos": [
+    186,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．银行家算法的工作原理",
+   "page": 186,
+   "pos": [
+    186,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3．进程同步、互斥的区别和联系",
+   "page": 186,
+   "pos": [
+    186,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第3章 内存管理",
+   "page": 187,
+   "pos": [
+    187,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 187,
+   "pos": [
+    187,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 187,
+   "pos": [
+    187,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.1  内存管理概念",
+   "page": 187,
+   "pos": [
+    187,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.1  内存管理的基本原理和要求",
+   "page": 187,
+   "pos": [
+    187,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．程序的链接与装入",
+   "page": 188,
+   "pos": [
+    188,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．逻辑地址与物理地址",
+   "page": 188,
+   "pos": [
+    188,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．程序的链接",
+   "page": 189,
+   "pos": [
+    189,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．程序的装入",
+   "page": 189,
+   "pos": [
+    189,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．内存保护",
+   "page": 190,
+   "pos": [
+    190,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．内存共享",
+   "page": 191,
+   "pos": [
+    191,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "7．内存分配与回收",
+   "page": 191,
+   "pos": [
+    191,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.2  连续分配管理方式",
+   "page": 191,
+   "pos": [
+    191,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．单一连续分配",
+   "page": 191,
+   "pos": [
+    191,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．固定分区分配",
+   "page": 191,
+   "pos": [
+    191,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．动态分区分配",
+   "page": 192,
+   "pos": [
+    192,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.3  基本分页存储管理",
+   "page": 194,
+   "pos": [
+    194,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．分页存储的几个基本概念",
+   "page": 194,
+   "pos": [
+    194,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．基本地址变换机构",
+   "page": 195,
+   "pos": [
+    195,
+    26
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．具有快表的地址变换机构",
+   "page": 196,
+   "pos": [
+    196,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．两级页表",
+   "page": 197,
+   "pos": [
+    197,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.4  基本分段存储管理",
+   "page": 198,
+   "pos": [
+    198,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．分段",
+   "page": 198,
+   "pos": [
+    198,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．段表",
+   "page": 199,
+   "pos": [
+    199,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．地址变换机构",
+   "page": 199,
+   "pos": [
+    199,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．分页和分段的对比",
+   "page": 200,
+   "pos": [
+    200,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．段的共享与保护",
+   "page": 200,
+   "pos": [
+    200,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.5  段页式存储管理",
+   "page": 201,
+   "pos": [
+    201,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.6  本节小结",
+   "page": 202,
+   "pos": [
+    202,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.7  本节习题精选",
+   "page": 202,
+   "pos": [
+    202,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 202,
+   "pos": [
+    202,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 209,
+   "pos": [
+    209,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.1.8  答案与解析",
+   "page": 211,
+   "pos": [
+    211,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 211,
+   "pos": [
+    211,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 219,
+   "pos": [
+    219,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.2  虚拟内存管理",
+   "page": 223,
+   "pos": [
+    223,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.1  虚拟内存的基本概念",
+   "page": 223,
+   "pos": [
+    223,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．传统存储管理方式的特征",
+   "page": 223,
+   "pos": [
+    223,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．局部性原理",
+   "page": 223,
+   "pos": [
+    223,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．虚拟存储器的定义和特征",
+   "page": 223,
+   "pos": [
+    223,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．虚拟内存技术的实现",
+   "page": 224,
+   "pos": [
+    224,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.2  请求分页管理方式",
+   "page": 224,
+   "pos": [
+    224,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．页表机制",
+   "page": 224,
+   "pos": [
+    224,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．缺页中断机构",
+   "page": 225,
+   "pos": [
+    225,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．地址变换机构",
+   "page": 225,
+   "pos": [
+    225,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.3  页框分配",
+   "page": 226,
+   "pos": [
+    226,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．最小页框数与驻留集",
+   "page": 226,
+   "pos": [
+    226,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．内存分配策略",
+   "page": 226,
+   "pos": [
+    226,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．页框调入算法",
+   "page": 227,
+   "pos": [
+    227,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．调入页面的时机",
+   "page": 227,
+   "pos": [
+    227,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．从何处调入页面",
+   "page": 228,
+   "pos": [
+    228,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "6．如何调入页面",
+   "page": 228,
+   "pos": [
+    228,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.4  页面置换算法",
+   "page": 228,
+   "pos": [
+    228,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．最佳（OPT）算法",
+   "page": 228,
+   "pos": [
+    228,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．先进先出（FIFO）算法",
+   "page": 229,
+   "pos": [
+    229,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．最近最久未使用（LRU）算法",
+   "page": 229,
+   "pos": [
+    229,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．时钟（CLOCK）算法",
+   "page": 230,
+   "pos": [
+    230,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "*3.2.5  抖动和工作集",
+   "page": 231,
+   "pos": [
+    231,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．抖动",
+   "page": 231,
+   "pos": [
+    231,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．工作集",
+   "page": 232,
+   "pos": [
+    232,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.6  页框回收",
+   "page": 232,
+   "pos": [
+    232,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．页面缓冲算法",
+   "page": 232,
+   "pos": [
+    232,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．页框回收",
+   "page": 233,
+   "pos": [
+    233,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.7  内存映射文件",
+   "page": 233,
+   "pos": [
+    233,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.8  虚拟存储器性能影响因素",
+   "page": 234,
+   "pos": [
+    234,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.9  地址翻译的示例",
+   "page": 234,
+   "pos": [
+    234,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.10  本节小结",
+   "page": 236,
+   "pos": [
+    236,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.11  本节习题精选",
+   "page": 237,
+   "pos": [
+    237,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 237,
+   "pos": [
+    237,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 243,
+   "pos": [
+    243,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "3.2.12  答案与解析",
+   "page": 248,
+   "pos": [
+    248,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 248,
+   "pos": [
+    248,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 254,
+   "pos": [
+    254,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "3.3  本章疑难点",
+   "page": 261,
+   "pos": [
+    261,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第4章 文件管理",
+   "page": 262,
+   "pos": [
+    262,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 262,
+   "pos": [
+    262,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 262,
+   "pos": [
+    262,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.1  文件系统基础",
+   "page": 262,
+   "pos": [
+    262,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.1  文件的基本概念",
+   "page": 262,
+   "pos": [
+    262,
+    23
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．文件的定义",
+   "page": 263,
+   "pos": [
+    263,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．文件的属性",
+   "page": 263,
+   "pos": [
+    263,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.2  文件系统结构",
+   "page": 264,
+   "pos": [
+    264,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.3  文件的逻辑结构",
+   "page": 264,
+   "pos": [
+    264,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．无结构文件",
+   "page": 265,
+   "pos": [
+    265,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．有结构文件",
+   "page": 265,
+   "pos": [
+    265,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.4  本节小结",
+   "page": 266,
+   "pos": [
+    266,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.5  本节习题精选",
+   "page": 267,
+   "pos": [
+    267,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 267,
+   "pos": [
+    267,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.1.6  答案与解析",
+   "page": 267,
+   "pos": [
+    267,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "单项选择题",
+   "page": 267,
+   "pos": [
+    267,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.2  目录与文件",
+   "page": 268,
+   "pos": [
+    268,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.1  目录的基本概念",
+   "page": 268,
+   "pos": [
+    268,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.2  文件控制块和索引节点",
+   "page": 268,
+   "pos": [
+    268,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．文件控制块",
+   "page": 268,
+   "pos": [
+    268,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．索引节点",
+   "page": 268,
+   "pos": [
+    268,
+    34
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.3  目录结构",
+   "page": 269,
+   "pos": [
+    269,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "*1．单级目录结构",
+   "page": 269,
+   "pos": [
+    269,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "*2．两级目录结构",
+   "page": 270,
+   "pos": [
+    270,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．树形目录结构",
+   "page": 270,
+   "pos": [
+    270,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "*4．无环图目录结构",
+   "page": 271,
+   "pos": [
+    271,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.4  目录的操作",
+   "page": 271,
+   "pos": [
+    271,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "*4.2.5  目录实现",
+   "page": 272,
+   "pos": [
+    272,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．线性列表",
+   "page": 272,
+   "pos": [
+    272,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．哈希表",
+   "page": 272,
+   "pos": [
+    272,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.6  文件的物理结构",
+   "page": 272,
+   "pos": [
+    272,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．连续分配",
+   "page": 272,
+   "pos": [
+    272,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．链接分配",
+   "page": 273,
+   "pos": [
+    273,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．索引分配",
+   "page": 274,
+   "pos": [
+    274,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.7  文件的操作",
+   "page": 277,
+   "pos": [
+    277,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．文件的基本操作",
+   "page": 277,
+   "pos": [
+    277,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．文件的打开与关闭",
+   "page": 277,
+   "pos": [
+    277,
+    35
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.8  文件共享",
+   "page": 279,
+   "pos": [
+    279,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．基于索引节点的共享方式（硬链接）",
+   "page": 279,
+   "pos": [
+    279,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．利用符号链实现文件共享（软链接）",
+   "page": 280,
+   "pos": [
+    280,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.9  文件保护",
+   "page": 280,
+   "pos": [
+    280,
+    33
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．访问类型",
+   "page": 281,
+   "pos": [
+    281,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．访问控制",
+   "page": 281,
+   "pos": [
+    281,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.10  本节小结",
+   "page": 282,
+   "pos": [
+    282,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.11  本节习题精选",
+   "page": 282,
+   "pos": [
+    282,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 282,
+   "pos": [
+    282,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 288,
+   "pos": [
+    288,
+    27
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.2.12  答案与解析",
+   "page": 293,
+   "pos": [
+    293,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 293,
+   "pos": [
+    293,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 300,
+   "pos": [
+    300,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.3  文件系统",
+   "page": 305,
+   "pos": [
+    305,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.1  文件系统布局",
+   "page": 305,
+   "pos": [
+    305,
+    7
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．文件系统在磁盘中的结构",
+   "page": 305,
+   "pos": [
+    305,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．文件系统在内存中的结构",
+   "page": 306,
+   "pos": [
+    306,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.2  文件存储空间管理",
+   "page": 306,
+   "pos": [
+    306,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．空闲表法",
+   "page": 306,
+   "pos": [
+    306,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．空闲链表法",
+   "page": 306,
+   "pos": [
+    306,
+    37
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．位示图法",
+   "page": 307,
+   "pos": [
+    307,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．成组链接法",
+   "page": 308,
+   "pos": [
+    308,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.3  虚拟文件系统",
+   "page": 309,
+   "pos": [
+    309,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.4  文件系统挂载",
+   "page": 310,
+   "pos": [
+    310,
+    24
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.5  本节小结",
+   "page": 311,
+   "pos": [
+    311,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.6  本节习题精选",
+   "page": 311,
+   "pos": [
+    311,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 311,
+   "pos": [
+    311,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 312,
+   "pos": [
+    312,
+    39
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "4.3.7  答案与解析",
+   "page": 313,
+   "pos": [
+    313,
+    14
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 313,
+   "pos": [
+    313,
+    15
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 315,
+   "pos": [
+    315,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "4.4  本章疑难点",
+   "page": 315,
+   "pos": [
+    315,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．文件的物理分配方式的比较",
+   "page": 315,
+   "pos": [
+    315,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．文件打开的过程描述",
+   "page": 315,
+   "pos": [
+    315,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "第5章 输入/输出管理",
+   "page": 316,
+   "pos": [
+    316,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【考纲内容】",
+   "page": 316,
+   "pos": [
+    316,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "【复习提示】",
+   "page": 316,
+   "pos": [
+    316,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.1  I/O管理概述",
+   "page": 316,
+   "pos": [
+    316,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.1  I/O设备",
+   "page": 316,
+   "pos": [
+    316,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．设备的分类",
+   "page": 316,
+   "pos": [
+    316,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．I/O接口",
+   "page": 317,
+   "pos": [
+    317,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．I/O接口的类型",
+   "page": 318,
+   "pos": [
+    318,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．I/O端口",
+   "page": 318,
+   "pos": [
+    318,
+    16
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.2  I/O控制方式",
+   "page": 319,
+   "pos": [
+    319,
+    0
+   ],
+   "matched": false
+  },
+  {
+   "level": 3,
+   "title": "1．程序直接控制方式",
+   "page": 319,
+   "pos": [
+    319,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．中断驱动方式",
+   "page": 319,
+   "pos": [
+    319,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．DMA方式",
+   "page": 320,
+   "pos": [
+    320,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "*4．通道控制方式",
+   "page": 321,
+   "pos": [
+    321,
+    3
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.3  I/O软件层次结构",
+   "page": 321,
+   "pos": [
+    321,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．用户层软件",
+   "page": 322,
+   "pos": [
+    322,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．设备独立性软件",
+   "page": 322,
+   "pos": [
+    322,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．设备驱动程序",
+   "page": 322,
+   "pos": [
+    322,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．中断处理程序",
+   "page": 322,
+   "pos": [
+    322,
+    38
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．I/O操作举例",
+   "page": 323,
+   "pos": [
+    323,
+    19
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.4  应用程序I/O接口",
+   "page": 324,
+   "pos": [
+    324,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．I/O接口的分类",
+   "page": 324,
+   "pos": [
+    324,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．阻塞I/O和非阻塞I/O",
+   "page": 325,
+   "pos": [
+    325,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.5  本节小结",
+   "page": 325,
+   "pos": [
+    325,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.6  本节习题精选",
+   "page": 325,
+   "pos": [
+    325,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 325,
+   "pos": [
+    325,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 328,
+   "pos": [
+    328,
+    10
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.1.7  答案与解析",
+   "page": 328,
+   "pos": [
+    328,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 328,
+   "pos": [
+    328,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 330,
+   "pos": [
+    330,
+    39
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.2  设备独立性软件",
+   "page": 331,
+   "pos": [
+    331,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.1  设备独立性软件",
+   "page": 331,
+   "pos": [
+    331,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.2  高速缓存与缓冲区",
+   "page": 331,
+   "pos": [
+    331,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．磁盘高速缓存（Disk Cache）",
+   "page": 331,
+   "pos": [
+    331,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．缓冲区（Buffer）",
+   "page": 332,
+   "pos": [
+    332,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．高速缓存与缓冲区的对比",
+   "page": 334,
+   "pos": [
+    334,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.3  设备分配与回收",
+   "page": 335,
+   "pos": [
+    335,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．设备分配概述",
+   "page": 335,
+   "pos": [
+    335,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．设备分配的数据结构",
+   "page": 335,
+   "pos": [
+    335,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．设备分配时应考虑的因素",
+   "page": 336,
+   "pos": [
+    336,
+    2
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．设备分配的步骤",
+   "page": 336,
+   "pos": [
+    336,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "5．逻辑设备名到物理设备名的映射",
+   "page": 336,
+   "pos": [
+    336,
+    36
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.4  SPOOLing技术（假脱机技术）",
+   "page": 337,
+   "pos": [
+    337,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.5  设备驱动程序接口",
+   "page": 338,
+   "pos": [
+    338,
+    28
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.6  I/O操作举例",
+   "page": 339,
+   "pos": [
+    339,
+    9
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.7  本节小结",
+   "page": 340,
+   "pos": [
+    340,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.8  本节习题精选",
+   "page": 340,
+   "pos": [
+    340,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 340,
+   "pos": [
+    340,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 344,
+   "pos": [
+    344,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.2.9  答案与解析",
+   "page": 345,
+   "pos": [
+    345,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 345,
+   "pos": [
+    345,
+    12
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 350,
+   "pos": [
+    350,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.3  磁盘和固态硬盘",
+   "page": 351,
+   "pos": [
+    351,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.1  磁盘",
+   "page": 351,
+   "pos": [
+    351,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.2  磁盘的管理",
+   "page": 352,
+   "pos": [
+    352,
+    21
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．磁盘初始化",
+   "page": 352,
+   "pos": [
+    352,
+    22
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．分区",
+   "page": 352,
+   "pos": [
+    352,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．引导块",
+   "page": 353,
+   "pos": [
+    353,
+    4
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．坏块",
+   "page": 353,
+   "pos": [
+    353,
+    20
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.3  磁盘调度算法",
+   "page": 353,
+   "pos": [
+    353,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．磁盘的存取时间",
+   "page": 353,
+   "pos": [
+    353,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．磁盘调度算法",
+   "page": 354,
+   "pos": [
+    354,
+    8
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "3．减少延迟时间的方法",
+   "page": 356,
+   "pos": [
+    356,
+    25
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "4．提高磁盘I/O速度的方法",
+   "page": 357,
+   "pos": [
+    357,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.4  固态硬盘",
+   "page": 357,
+   "pos": [
+    357,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "1．固态硬盘的特性",
+   "page": 357,
+   "pos": [
+    357,
+    31
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "2．磨损均衡（Wear Leveling）",
+   "page": 358,
+   "pos": [
+    358,
+    18
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.5  本节小结",
+   "page": 358,
+   "pos": [
+    358,
+    32
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.6  本节习题精选",
+   "page": 359,
+   "pos": [
+    359,
+    5
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 359,
+   "pos": [
+    359,
+    6
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 362,
+   "pos": [
+    362,
+    11
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "5.3.7  答案与解析",
+   "page": 363,
+   "pos": [
+    363,
+    29
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "一、单项选择题",
+   "page": 363,
+   "pos": [
+    363,
+    30
+   ],
+   "matched": true
+  },
+  {
+   "level": 3,
+   "title": "二、综合应用题",
+   "page": 367,
+   "pos": [
+    367,
+    17
+   ],
+   "matched": true
+  },
+  {
+   "level": 1,
+   "title": "5.4  本章疑难点",
+   "page": 370,
+   "pos": [
+    370,
+    0
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "1．如何改进设备分配策略，以提高其灵活性和成功率？",
+   "page": 370,
+   "pos": [
+    370,
+    1
+   ],
+   "matched": true
+  },
+  {
+   "level": 2,
+   "title": "2．用户缓冲区与内核缓冲区的定义及作用分别是什么？",
+   "page": 370,
+   "pos": [
+    370,
+    13
+   ],
+   "matched": true
+  },
+  {
+   "level": 0,
+   "title": "参 考 文 献",
+   "page": 371,
+   "pos": [
+    371,
+    0
+   ],
+   "matched": true
+  }
+ ]
+}
